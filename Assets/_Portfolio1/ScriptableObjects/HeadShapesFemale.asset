@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0ca1fbd56b8334689f8f837a2c8e28, type: 3}
+  m_Name: HeadShapesFemale
+  m_EditorClassIdentifier: 
+  shapes:
+  - {fileID: -6666984625900019997, guid: 0dfa6027d24af53429ffb63261cd762b, type: 3}
+  - {fileID: -9056744332693789563, guid: 9329d229077949d459473a6f489d3831, type: 3}
+  - {fileID: -3117035615904233249, guid: 94897401f05036d44857b5f6edab4dc9, type: 3}
+  - {fileID: -5397578775905835677, guid: faf4910b7e493a24ca8fd60533218024, type: 3}
+  - {fileID: 1461825695753895080, guid: 6e089fba8faf3af479863c84f63384d3, type: 3}
+  - {fileID: -652018404470983573, guid: bb48fd2c9cb38af468f401640345487b, type: 3}
+  - {fileID: -7199541562261731413, guid: e79c2fdc49050d94ea4c0a0b4015d936, type: 3}
+  - {fileID: 8406323105770133724, guid: 50d6c27fed2ad0d47be1abbe4fa5975e, type: 3}
+  - {fileID: 5265159819797164502, guid: 04595991fb1873d4faa2e7d0b12ab031, type: 3}
+  - {fileID: -5058519775829931976, guid: fcb885db32e9b0d489fbd082ffab864f, type: 3}
